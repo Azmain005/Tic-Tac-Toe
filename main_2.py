@@ -85,7 +85,7 @@ def main():
         board()
         calculate(player_one, player_two)
 
-    print('This game is a TIE. Play again.')
+    print('This game is a TIE. Please play again. ')
 
 
 main()
